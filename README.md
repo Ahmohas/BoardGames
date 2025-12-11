@@ -11,7 +11,7 @@ We started with BoardGameGeek data containing thousands of games with their rati
 
 ## Files in This Project
 
-The main data files you'll work with:
+The main data files we've worked with:
 
 - `bgg_dataset.csv` - Raw game data from BoardGameGeek
 - `products_with_edition.csv` - Market pricing and edition information
@@ -64,9 +64,6 @@ From the models, we can identify which game characteristics are actually driving
 - We focus on "new" condition products to keep the analysis consistent
 - Some games might not have pricing data, but our code handles that gracefully
 
-## Quick Summary
-
-This is essentially a data science project that takes game data and market information, cleans it up, visualizes it, and then builds models to understand pricing and value. If you're curious about board games or how data analysis works, this should give you a pretty good look at the process.
 
 ## References
 
@@ -75,3 +72,4 @@ This is essentially a data science project that takes game data and market infor
 
 ## Data Sources
 -The primary dataset used in this study was obtained from BoardGameGeek (BGG)
+- A public API from the BGG website to extract products
