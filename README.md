@@ -72,4 +72,4 @@ From the models, we can identify which game characteristics are actually driving
 
 ## Data Sources
 -The primary dataset used in this study was obtained from BoardGameGeek (BGG)
-- A public API from the BGG website to extract products
+-A public API from the BGG website to extract products
